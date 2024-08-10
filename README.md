@@ -1,4 +1,5 @@
 Responsive Cake Website
+
 Welcome to the Responsive Cake Website! This project is a beautifully designed and fully responsive website for a cake shop. The website showcases various cake offerings, with a focus on user experience and mobile-friendly design.
 
 🚀 Demo
